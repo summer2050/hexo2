@@ -6,7 +6,7 @@
   <link href="http://ellenlog.netlify.app/atom.xml" rel="self"/>
   
   <link href="http://ellenlog.netlify.app/"/>
-  <updated>2025-11-09T05:15:21.425Z</updated>
+  <updated>2025-11-11T12:49:49.288Z</updated>
   <id>http://ellenlog.netlify.app/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="http://ellenlog.netlify.app/hello-world/"/>
     <id>http://ellenlog.netlify.app/hello-world/</id>
     <published>2025-11-09T05:15:21.425Z</published>
-    <updated>2025-11-09T05:15:21.425Z</updated>
+    <updated>2025-11-11T12:49:49.288Z</updated>
     
     
       
@@ -33,6 +33,8 @@
       
     
     
+    
+    <category term="杂" scheme="http://ellenlog.netlify.app/categories/%E6%9D%82/"/>
     
     
   </entry>
