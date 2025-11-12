@@ -18,8 +18,8 @@
   
   <entry>
     <title>【读书】《蔡康永的说话之道》1+2</title>
-    <link href="http://ellenlog.netlify.app/%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0%E3%80%8A%E8%94%A1%E5%BA%B7%E6%B0%B8%E7%9A%84%E8%AF%B4%E8%AF%9D%E4%B9%8B%E9%81%93%E3%80%8B1+2/"/>
-    <id>http://ellenlog.netlify.app/%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0%E3%80%8A%E8%94%A1%E5%BA%B7%E6%B0%B8%E7%9A%84%E8%AF%B4%E8%AF%9D%E4%B9%8B%E9%81%93%E3%80%8B1+2/</id>
+    <link href="http://ellenlog.netlify.app/%E3%80%90%E8%AF%BB%E4%B9%A6%E3%80%91%E3%80%8A%E8%94%A1%E5%BA%B7%E6%B0%B8%E7%9A%84%E8%AF%B4%E8%AF%9D%E4%B9%8B%E9%81%93%E3%80%8B1+2/"/>
+    <id>http://ellenlog.netlify.app/%E3%80%90%E8%AF%BB%E4%B9%A6%E3%80%91%E3%80%8A%E8%94%A1%E5%BA%B7%E6%B0%B8%E7%9A%84%E8%AF%B4%E8%AF%9D%E4%B9%8B%E9%81%93%E3%80%8B1+2/</id>
     <published>2025-11-11T13:28:34.000Z</published>
     <updated>2025-11-12T04:48:40.159Z</updated>
     
@@ -42,11 +42,11 @@
   </entry>
   
   <entry>
-    <title>【2025周记】11.3-11.9</title>
-    <link href="http://ellenlog.netlify.app/%E3%80%902025%E5%91%A8%E8%AE%B0%E3%80%9111-3-11-9/"/>
-    <id>http://ellenlog.netlify.app/%E3%80%902025%E5%91%A8%E8%AE%B0%E3%80%9111-3-11-9/</id>
+    <title>【Weekly】25W45 11.3-11.9</title>
+    <link href="http://ellenlog.netlify.app/%E3%80%90Weekly%E3%80%9125W45%2011.3-11.9/"/>
+    <id>http://ellenlog.netlify.app/%E3%80%90Weekly%E3%80%9125W45%2011.3-11.9/</id>
     <published>2025-11-11T13:08:48.000Z</published>
-    <updated>2025-11-11T13:14:58.818Z</updated>
+    <updated>2025-11-12T05:13:32.939Z</updated>
     
     
       
@@ -62,8 +62,6 @@
     
     <category term="weekly" scheme="http://ellenlog.netlify.app/categories/weekly/"/>
     
-    
-    <category term="weekly" scheme="http://ellenlog.netlify.app/tags/weekly/"/>
     
   </entry>
   

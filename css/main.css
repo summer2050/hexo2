@@ -772,7 +772,7 @@ html {
 html,
 body {
   height: 100%;
-  font-family: lato,monospace;
+  font-family: Lato,Microsoft YaHei, sans-serif;
   overflow-wrap: break-word;
 }
 body {
@@ -841,7 +841,7 @@ i.iconfont {
   --sec-text-color: #718096;
   --post-text-color: #2c3e50;
   --post-heading-color: #1a202c;
-  --post-link-color: #0366d6;
+  --post-link-color: #ff9999;
   --link-hover-color: #30a9de;
   --link-hover-bg-color: #f8f9fa;
   --line-color: #eaecef;
@@ -1393,7 +1393,7 @@ figure.highlight td.code > pre {
 .markdown-body {
   font-size: 16px;
   line-height: 1.6;
-  font-family: lato,monospace;
+  font-family: Lato,Microsoft YaHei, sans-serif;
   margin-bottom: 2rem;
   color: var(--post-text-color);
 }
